@@ -6,5 +6,5 @@ target 'VideoTest' do
   use_frameworks!
 
   # Pods for VideoTest
-pod 'CocoaAsyncSocket'
+
 end
